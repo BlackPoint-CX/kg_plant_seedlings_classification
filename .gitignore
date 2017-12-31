@@ -62,3 +62,5 @@ target/
 .python-version
 /kg_plant_seedlings_classification/data/test.zip
 /kg_plant_seedlings_classification/data/train.zip
+/kg_plant_seedlings_classification/data/test/
+/kg_plant_seedlings_classification/data/train/
