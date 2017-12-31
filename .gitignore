@@ -60,3 +60,5 @@ target/
 
 # pyenv python configuration file
 .python-version
+/kg_plant_seedlings_classification/data/test.zip
+/kg_plant_seedlings_classification/data/train.zip
